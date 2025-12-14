@@ -19,7 +19,7 @@ Cada cuadro está sobre su propio marco y separado del resto para que se puedan 
 
 ## Cómo ejecutar el proyecto
 1. Descarga este repositorio en tu ordenador.  
-2. Abre el archivo `index.html` con un navegador compatible (por ejemplo, Chrome o Firefox). 
+2. Abre el archivo `index.html` dentro de la carpeta indice con un navegador compatible (por ejemplo, Chrome o Firefox). 
 3. Mueve la cámara con el ratón o con las teclas de movimiento para recorrer el museo virtual.
 
 ## Autores
