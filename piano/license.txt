@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hallet And Davis Piano, 1896 #3DST19
+* source:	https://sketchfab.com/3d-models/hallet-and-davis-piano-1896-3dst19-5a0d2e4dea71474abb55b7c2bfb6e715
+* author:	John Fino (tauricity) (https://sketchfab.com/tauricity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hallet And Davis Piano, 1896 #3DST19" (https://sketchfab.com/3d-models/hallet-and-davis-piano-1896-3dst19-5a0d2e4dea71474abb55b7c2bfb6e715) by John Fino (tauricity) (https://sketchfab.com/tauricity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
